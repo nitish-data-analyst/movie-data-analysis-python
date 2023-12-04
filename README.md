@@ -13,8 +13,7 @@ This Colab notebook repository contains a comprehensive data analysis of movie-r
    - Customize the notebook based on your preferences and requirements.
 
 ## Dataset
-The primary dataset used for analysis is stored in the file: `movies_dataset.csv`. This dataset includes [mention any relevant details about the dataset, such as columns, sources, etc.].
-
+The primary dataset used for analysis is stored in the file: `movies_dataset.csv`. 
 
 
 **Happy Analyzing!**
